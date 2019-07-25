@@ -1,0 +1,40 @@
+<Products>
+  <Product>
+    <Product Product ID="AB5276">
+      <Values>
+        <SalesPrice/>
+        <LastUpdated>2019-07-23 13:48:41.27</LastUpdated>
+      </Values>
+    </Product>
+    <Product Product ID="AB5278">
+      <Values>
+        <SalesPrice/>
+        <LastUpdated>2019-07-23 13:48:41.27</LastUpdated>
+      </Values>
+    </Product>
+    <Product Product ID="BD5744">
+      <Values>
+        <SalesPrice/>
+        <LastUpdated>2019-07-23 13:48:41.27</LastUpdated>
+      </Values>
+    </Product>
+    <Product Product ID="BD5861">
+      <Values>
+        <SalesPrice>349.96</SalesPrice>
+        <LastUpdated>2019-07-23 13:48:41.27</LastUpdated>
+      </Values>
+    </Product>
+    <Product Product ID="BQ2134">
+      <Values>
+        <SalesPrice>6.96</SalesPrice>
+        <LastUpdated>2019-07-23 13:48:41.27</LastUpdated>
+      </Values>
+    </Product>
+    <Product Product ID="BQ2624">
+      <Values>
+        <SalesPrice>20.96</SalesPrice>
+        <LastUpdated>2019-07-23 13:48:41.27</LastUpdated>
+      </Values>
+    </Product>
+  </Product>
+</Products>
