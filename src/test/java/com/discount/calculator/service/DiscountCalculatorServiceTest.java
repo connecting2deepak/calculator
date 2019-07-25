@@ -99,6 +99,7 @@ public class DiscountCalculatorServiceTest {
 		verify(productRepository, times(2)).save(products);
 		verify(productRepository, times(1)).findAll();
 		verify(processedFilesRepository, times(1)).findByFileNameAndProcessedDate(any(), any());
+		
 	}
 
 }
