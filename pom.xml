@@ -99,7 +99,11 @@
             <resource>
                 <directory>${basedir}/src/main/resources</directory>
             </resource>
+            <resource>
+                <directory>${basedir}/src/test/resources</directory>
+            </resource>
         </resources>
+        
 	</build>
 
 </project>
